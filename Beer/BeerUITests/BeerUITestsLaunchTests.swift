@@ -1,10 +1,3 @@
-//
-//  BeerUITestsLaunchTests.swift
-//  BeerUITests
-//
-//  Created by Kacper Domagała on 17/09/2023.
-//
-
 import XCTest
 
 final class BeerUITestsLaunchTests: XCTestCase {
