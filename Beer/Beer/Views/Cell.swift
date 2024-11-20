@@ -1,10 +1,3 @@
-//
-//  Cell.swift
-//  Beer
-//
-//  Created by Kacper Domagała on 18/09/2023.
-//
-
 import SwiftUI
 
 struct Cell: View {
