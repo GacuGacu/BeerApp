@@ -1,10 +1,3 @@
-//
-//  EditView.swift
-//  Beer
-//
-//  Created by Kacper Domagała on 29/09/2023.
-//
-
 import SwiftUI
 
 struct EditView: View {
