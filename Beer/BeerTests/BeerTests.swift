@@ -1,10 +1,3 @@
-//
-//  BeerTests.swift
-//  BeerTests
-//
-//  Created by Kacper Domagała on 17/09/2023.
-//
-
 import XCTest
 @testable import Beer
 
