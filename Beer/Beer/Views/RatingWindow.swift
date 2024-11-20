@@ -1,10 +1,3 @@
-//
-//  RatingWindow.swift
-//  Beer
-//
-//  Created by Kacper Domagała on 28/09/2023.
-//
-
 import SwiftUI
 
 struct RatingWindow: View {
