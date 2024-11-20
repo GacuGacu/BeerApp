@@ -1,10 +1,3 @@
-//
-//  DataController.swift
-//  Beer
-//
-//  Created by Kacper Domagała on 01/10/2023.
-//
-
 import Foundation
 import CoreData
 
