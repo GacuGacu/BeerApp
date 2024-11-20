@@ -1,10 +1,3 @@
-//
-//  TabBarView.swift
-//  Beer
-//
-//  Created by Kacper Domagała on 11/05/2024.
-//
-
 import SwiftUI
 
 struct TabBarView: View {
