@@ -1,10 +1,3 @@
-//
-//  ImagePicker.swift
-//  Beer
-//
-//  Created by Kacper Domagała on 17/09/2023.
-//
-
 import Foundation
 import SwiftUI
 
